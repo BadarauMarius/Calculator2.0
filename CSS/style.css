@@ -6,7 +6,8 @@
 
 body {
     font-family: 'Roboto Condensed', sans-serif;
-    background-image: url(/ASSETS/img/background.jpg) ;
+    /* background-image: url(/ASSETS/img/background.jpg) ; */
+    background-color: black;
 }
 
 #container {
@@ -32,7 +33,7 @@ body {
 #display {
     width: 270px;
     height: 100px;
-    margin:auto;
+    margin: auto;
     text-align: right;
     box-shadow:inset -2px -1px 5px -1px #858b89;
     border: 1px;
