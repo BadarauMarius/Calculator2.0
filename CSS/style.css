@@ -35,10 +35,11 @@ body {
     height: 100px;
     margin: auto;
     text-align: right;
+    overflow: hidden;
     box-shadow:inset -2px -1px 5px -1px #858b89;
     border: 1px;
     border-radius: 5px;
-    font-size: 50px;
+    font-size: 40px;
     color: #ffff;
 }
 
